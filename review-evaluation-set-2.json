@@ -1,0 +1,205 @@
+{
+  "fileName": "sample-evaluation-set.json",
+  "id": "39fbd12d-746e-484f-856a-20c6397a3eab",
+  "name": "Sample Evaluation Set - JSON",
+  "batchSize": 10,
+  "evaluatorRefs": [],
+  "evaluations": [
+    {
+      "id": "be4be348-4e69-4014-9e37-9f54d3aef78d",
+      "name": "Positive case",
+      "inputs": {
+        "Review": "The pizza arrived hot and delicious. Excellent service!"
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Positive\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "6ae3bda6-8145-479a-bd01-9f6759afe233",
+      "name": "Negative case",
+      "inputs": {
+        "Review": "My internet connection keeps dropping. Very frustrating."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "107febfe-6312-416b-babb-d5d780abb0cf",
+      "name": "Mixed case",
+      "inputs": {
+        "Review": "The hotel room was clean but the check-in took too long."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Mixed\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "07350ae6-c966-4e38-9e6a-ec8591f7bc18",
+      "name": "Positive case",
+      "inputs": {
+        "Review": "The mobile app is easy to use and very fast."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Positive\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "b450fbb3-440c-405c-b640-e431681ff6cf",
+      "name": "Negative case",
+      "inputs": {
+        "Review": "Customer support was rude and unhelpful."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "ada450cb-30c2-4c7b-986f-8be2a75d15f4",
+      "name": "Positive case",
+      "inputs": {
+        "Review": "The shoes fit perfectly and are very comfortable."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Positive\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "abfe5a4e-d5e4-4938-8a45-57f70fe6b8d6",
+      "name": "Mixed case",
+      "inputs": {
+        "Review": "The package arrived on time but one accessory was missing."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Mixed\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "d36836f8-2ef4-481d-8138-7e0c3ac39fec",
+      "name": "Positive case",
+      "inputs": {
+        "Review": "The subscription price is reasonable for the features offered."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Positive\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "9df62bcc-bd85-418a-808b-5533b37031cc",
+      "name": "Positive case",
+      "inputs": {
+        "Review": "The medicine was delivered safely and on schedule."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Positive\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "8aea46a2-b1b7-46ed-9632-3f3dc11456bf",
+      "name": "Negative case",
+      "inputs": {
+        "Review": "I canceled my order but was still charged."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative\nConfidence Score: High"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    }
+  ],
+  "modelSettings": [],
+  "createdAt": "2026-07-18T04:26:10.531Z",
+  "updatedAt": "2026-07-18T04:26:10.531Z",
+  "agentMemoryEnabled": false,
+  "agentMemorySettings": [],
+  "lineByLineEvaluation": false
+}

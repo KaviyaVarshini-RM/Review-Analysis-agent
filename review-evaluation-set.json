@@ -1,0 +1,205 @@
+{
+  "fileName": "sample-evaluation-set.json",
+  "id": "39fbd12d-746e-484f-856a-20c6397a3eab",
+  "name": "Sample Evaluation Set - JSON",
+  "batchSize": 10,
+  "evaluatorRefs": [],
+  "evaluations": [
+    {
+      "id": "44a10a27-5db0-4aec-aadf-dc536ce50350",
+      "name": "Positive review",
+      "inputs": {
+        "Review": "The perfume smells amazing and lasts all day. I will definitely buy it again."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Positive"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "694b4992-0ba0-4927-bed5-0b01ec7252b5",
+      "name": "Negative review",
+      "inputs": {
+        "Review": "The product arrived late and the packaging was damaged. Very disappointed."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "74835bf3-a33c-4541-93f1-79cb71767cf4",
+      "name": "Mixed review",
+      "inputs": {
+        "Review": "The fragrance is good, but it fades after two hours. The price is also a bit high."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Mixed"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "5330db75-0f03-4308-8c14-efe4d7deb972",
+      "name": "Positive review",
+      "inputs": {
+        "Review": "Excellent customer service. My issue was resolved within a few minutes."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Positive"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "b9afaf63-2d14-416c-be18-2687eb762506",
+      "name": "Negative review",
+      "inputs": {
+        "Review": "I received the wrong item and customer support never replied."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "d03913c6-44da-4174-bf0e-eb8721d37cdc",
+      "name": "Positive review",
+      "inputs": {
+        "Review": "The quality is excellent and delivery was faster than expected."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Positive"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "71eda90e-73e1-40ac-b2d6-4dd82c5bd8a0",
+      "name": "Mixed review",
+      "inputs": {
+        "Review": "The bottle leaked during shipping. The perfume smells good but I lost half of it."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Mixed"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "78c52e69-1d11-4f2e-8340-98997cb76e80",
+      "name": "Positive review",
+      "inputs": {
+        "Review": "Amazing quality for the price. Highly recommended."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Positive"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "9355f97d-b4fc-4efc-bbe4-4ec90a0ed80b",
+      "name": "Neutral review",
+      "inputs": {
+        "Review": "The product is average. Nothing impressive but nothing terrible either."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Neutral"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    },
+    {
+      "id": "f74574b6-37c9-47da-8c96-9d6d7ff2dc1e",
+      "name": "Negative review",
+      "inputs": {
+        "Review": "Worst purchase ever. I want a refund immediately."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "39fbd12d-746e-484f-856a-20c6397a3eab",
+      "createdAt": "2026-07-18T04:26:10.531Z",
+      "updatedAt": "2026-07-18T04:26:10.531Z"
+    }
+  ],
+  "modelSettings": [],
+  "createdAt": "2026-07-18T04:26:10.531Z",
+  "updatedAt": "2026-07-18T04:26:10.531Z",
+  "agentMemoryEnabled": false,
+  "agentMemorySettings": [],
+  "lineByLineEvaluation": false
+}

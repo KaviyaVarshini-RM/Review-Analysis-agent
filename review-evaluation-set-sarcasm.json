@@ -1,0 +1,198 @@
+{
+  "id": "64382b06-6975-431a-b3ed-5682344aa5f7",
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "batchSize": 10,
+  "evaluations": [
+    {
+      "id": "b6b57c6e-a578-4c16-b5b7-8a79cb4882dd",
+      "name": "Negative Edge Case",
+      "inputs": {
+        "Review": "Wow, another product that broke on the first day. Exactly what I was hoping for."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative\nConfidence Score: High\nCustomer Emotion: Sarcastic"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "fdff21e9-f580-4212-9d0d-ede42a7effc2",
+      "name": "Negative Edge Case",
+      "inputs": {
+        "Review": "Fantastic! Now I have to spend another hour talking to customer support."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative\nConfidence Score: High\nCustomer Emotion: Frustrated"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "c3bb0129-7d6f-4b90-b6ad-1e74530da844",
+      "name": "Mixed Edge Case",
+      "inputs": {
+        "Review": "The food was cold, but at least the delivery driver smiled."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Mixed\nConfidence Score: High\nCustomer Emotion: Disappointed"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "a4cd129f-12a1-4094-b0ef-bc081fd1a09a",
+      "name": "Negative Edge Case",
+      "inputs": {
+        "Review": "I absolutely love waiting two weeks for next-day delivery."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative\nConfidence Score: High\nCustomer Emotion: Sarcastic"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "53b7f058-4c4a-4c98-aecd-91674981c37b",
+      "name": "Negative Edge Case",
+      "inputs": {
+        "Review": "Not bad... if your standards are extremely low."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative\nConfidence Score: High\nCustomer Emotion: Dissatisfied"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "33cca9fc-8855-483a-974c-38c8eb4f2706",
+      "name": "Mixed Edge Case",
+      "inputs": {
+        "Review": "The phone works perfectly. Too bad the battery dies in two hours."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Mixed\nConfidence Score: High\nCustomer Emotion: Disappointed"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "f2c56ecc-3752-4387-a976-da88650f4d3c",
+      "name": "Mixed Edge Case",
+      "inputs": {
+        "Review": "I'm speechless. I honestly don't know whether to laugh or cry after using this."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Mixed\nConfidence Score: High\nCustomer Emotion: Confused"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "b0ca9b80-c66c-4c99-8439-ac06ff3a1c74",
+      "name": "Negative Edge Case",
+      "inputs": {
+        "Review": "Five stars for teaching me never to buy from this store again."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative\nConfidence Score: High\nCustomer Emotion: Sarcastic"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "533c397f-b6c7-4df4-b815-55d0ce37a781",
+      "name": "Neutral Edge Case",
+      "inputs": {
+        "Review": "Everything was exactly average. Nothing to complain about, nothing to praise."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Neutral\nConfidence Score: High\nCustomer Emotion: Indifferent"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "4f0973e6-ff59-4cfb-b865-85d2bf110bce",
+      "name": "Negative Edge Case",
+      "inputs": {
+        "Review": "The service wasn't terrible, but I definitely wouldn't recommend it."
+      },
+      "expectedOutput": {
+        "content": "Overall Sentiment: Negative\nConfidence Score: High\nCustomer Emotion: Unsatisfied"
+      },
+      "expectedAgentBehavior": "",
+      "simulationInstructions": "",
+      "simulateInput": false,
+      "inputGenerationInstructions": "",
+      "simulateTools": false,
+      "toolsToSimulate": [],
+      "evalSetId": "64382b06-6975-431a-b3ed-5682344aa5f7",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}
